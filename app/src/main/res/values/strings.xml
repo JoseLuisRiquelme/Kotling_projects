@@ -1,0 +1,46 @@
+<resources>
+
+<!--    IMC App-->
+    <string name="app_name">Android-project-2</string>
+    <string name="sex_male">Hombre</string>
+    <string name="sex_female">Mujer</string>
+    <string name="saludar_app">Saludar app</string>
+    <string name="imc_app">IMC app</string>
+    <string name="height">Altura</string>
+    <string name="weight">peso</string>
+    <string name="ntvweight">70</string>
+    <string name="minus">-</string>
+    <string name="default_height">120 cm</string>
+    <string name="more">+</string>
+    <string name="age">edad</string>
+    <string name="age_default">25</string>
+    <string name="calculate">calcular</string>
+
+<!--    Result-->
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Re-calcular</string>
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estas por debajo de lo optimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="description_peso_normal">Estas en lo optimo para tu peso y altura</string>
+
+    <string name="title_sobre_peso">Sobre Peso</string>
+    <string name="description_sobre_peso">Estas con sobre peso</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estas con obesidad</string>
+
+<!--    todoApp-->
+    <string name="TODO">TODO APP</string>
+    <string name="Bienvenido">Bienvenido!</string>
+    <string name="categories">categorias:</string>
+    <string name="todo_tasks">tareas:</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_create_task">Crear tarea</string>
+</resources>
